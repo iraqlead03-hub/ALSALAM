@@ -1,0 +1,3 @@
+# Google AdSense Authorized Digital Sellers (ads.txt)
+# Official publisher record for Mustafa Al-Hashemi creator portal
+google.com, pub-8921764302918452, DIRECT, f08c47fec0942fa0
